@@ -1,2 +1,5 @@
 Hi Branch 2 changed
 Newline Added
+Hi Branch 2 changed
+Hi Branch 2
+new Branch 3 
